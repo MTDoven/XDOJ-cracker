@@ -16,7 +16,7 @@
 
 
 
-
+根据需要上传下面四个文件中的一个  
 `AlwaysRight.c` 可以在这个平台上任意一道题目中获得满分。很无赖，谨慎使用。  
 `GetTestExample.c` 可以获得所有的测试用例，在刚才执行的`ReceiveRequest.exe`中查看。  
 `GetAnswer.c` 可以获得所有的测试标准答案，在刚才的`ReceiveRequest.exe`中查看。  
